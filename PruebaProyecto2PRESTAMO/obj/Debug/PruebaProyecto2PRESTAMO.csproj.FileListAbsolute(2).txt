@@ -1,0 +1,15 @@
+C:\Users\Jean Pierre\Desktop\Visual Studio Ejercicios\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\bin\Debug\PruebaProyecto2PRESTAMO.exe.config
+C:\Users\Jean Pierre\Desktop\Visual Studio Ejercicios\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\bin\Debug\PruebaProyecto2PRESTAMO.exe
+C:\Users\Jean Pierre\Desktop\Visual Studio Ejercicios\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\bin\Debug\PruebaProyecto2PRESTAMO.pdb
+C:\Users\Jean Pierre\Desktop\Visual Studio Ejercicios\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.csproj.AssemblyReference.cache
+C:\Users\Jean Pierre\Desktop\Visual Studio Ejercicios\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean Pierre\Desktop\Visual Studio Ejercicios\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.csproj.CoreCompileInputs.cache
+C:\Users\Jean Pierre\Desktop\Visual Studio Ejercicios\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.exe
+C:\Users\Jean Pierre\Desktop\Visual Studio Ejercicios\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.pdb
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Desktop\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\bin\Debug\PruebaProyecto2PRESTAMO.exe.config
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Desktop\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\bin\Debug\PruebaProyecto2PRESTAMO.exe
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Desktop\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\bin\Debug\PruebaProyecto2PRESTAMO.pdb
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Desktop\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.csproj.AssemblyReference.cache
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Desktop\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Desktop\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.exe
+C:\Users\DIEGO\OneDrive - Universidad Privada del Norte\Desktop\PruebaProyecto2PRESTAMO\PruebaProyecto2PRESTAMO\obj\Debug\PruebaProyecto2PRESTAMO.pdb
